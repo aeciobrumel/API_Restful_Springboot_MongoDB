@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.brumel.workshopmongo.domain.User;
-
+//
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {
